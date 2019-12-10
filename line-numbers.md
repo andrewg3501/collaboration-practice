@@ -17,7 +17,7 @@
 
 
 #### 10
-#### 11 why did we have to write the nearly exact same text again?
+#### 11 why did we have to write the nearly exact same text again? give me error pls
 
 #### 12
 #### 13
